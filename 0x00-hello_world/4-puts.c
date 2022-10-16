@@ -1,11 +1,14 @@
-#!/bin/bash
+# !/ bin / bash
 #include <stdio.h>
+
 /**
- * *main- Serves as the entry point for the program*
- *Return: By default returns zero if no errors otherwise return non-zerovalue.
+ * main - Programming is like building a multilingual puzzle
+ *
+ * Return: 0
  */
 int main(void)
 {
-puts("¥"Programming is like building amultilingual puzzel");
-return (0);
+	puts("¥"Programming is like building amultilingual puzzel");
+
+	return (0);
 }
